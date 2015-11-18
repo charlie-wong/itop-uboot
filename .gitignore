@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+#############################
+# for cscope and tags
+tags
+cscope.po.out
+cscope.in.out
+cscope.out
+#############################
